@@ -1,0 +1,5 @@
+=COUNT(A$1:A$4)-RANK(A1,A$1:A$4)+1
+
+=RANK(V4,$V$4:$V$191)
+=COUNT($V$4:$V$191)-RANK(V4,$V$4:$V$191)+1
+
